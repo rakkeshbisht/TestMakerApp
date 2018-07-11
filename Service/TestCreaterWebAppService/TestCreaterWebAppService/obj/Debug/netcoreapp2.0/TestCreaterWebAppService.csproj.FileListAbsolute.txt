@@ -1,0 +1,11 @@
+E:\Project\TestCreaterWebApp\Service\TestCreaterWebAppService\TestCreaterWebAppService\bin\Debug\netcoreapp2.0\TestCreaterWebAppService.deps.json
+E:\Project\TestCreaterWebApp\Service\TestCreaterWebAppService\TestCreaterWebAppService\bin\Debug\netcoreapp2.0\TestCreaterWebAppService.runtimeconfig.json
+E:\Project\TestCreaterWebApp\Service\TestCreaterWebAppService\TestCreaterWebAppService\bin\Debug\netcoreapp2.0\TestCreaterWebAppService.runtimeconfig.dev.json
+E:\Project\TestCreaterWebApp\Service\TestCreaterWebAppService\TestCreaterWebAppService\bin\Debug\netcoreapp2.0\TestCreaterWebAppService.dll
+E:\Project\TestCreaterWebApp\Service\TestCreaterWebAppService\TestCreaterWebAppService\bin\Debug\netcoreapp2.0\TestCreaterWebAppService.pdb
+E:\Project\TestCreaterWebApp\Service\TestCreaterWebAppService\TestCreaterWebAppService\obj\Debug\netcoreapp2.0\TestCreaterWebAppService.csprojResolveAssemblyReference.cache
+E:\Project\TestCreaterWebApp\Service\TestCreaterWebAppService\TestCreaterWebAppService\obj\Debug\netcoreapp2.0\TestCreaterWebAppService.csproj.CoreCompileInputs.cache
+E:\Project\TestCreaterWebApp\Service\TestCreaterWebAppService\TestCreaterWebAppService\obj\Debug\netcoreapp2.0\TestCreaterWebAppService.AssemblyInfoInputs.cache
+E:\Project\TestCreaterWebApp\Service\TestCreaterWebAppService\TestCreaterWebAppService\obj\Debug\netcoreapp2.0\TestCreaterWebAppService.AssemblyInfo.cs
+E:\Project\TestCreaterWebApp\Service\TestCreaterWebAppService\TestCreaterWebAppService\obj\Debug\netcoreapp2.0\TestCreaterWebAppService.dll
+E:\Project\TestCreaterWebApp\Service\TestCreaterWebAppService\TestCreaterWebAppService\obj\Debug\netcoreapp2.0\TestCreaterWebAppService.pdb
